@@ -59,7 +59,7 @@ docker run -p 8501:8501 wheat-classifier
 Access the web interface at [http://localhost:8501](http://localhost:8501).
 
 ### Making Predictions
-1. Upload a wheat sample image through the web interface.
+1. Upload a wheat sample image or a video showing the growing wheat just like wheat growing in the fields through the web interface or by using your device camera.
 2. View real-time classification results indicating whether the wheat is **normal**, affected by **Fusarium**, or has an **unknown disease**.
 3. Explore model confidence scores and visualizations.
 
