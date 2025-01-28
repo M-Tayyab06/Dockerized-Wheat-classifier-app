@@ -6,7 +6,8 @@
 
 A deep learning project for wheat classification using Convolutional Neural Networks (CNN), capable of predicting whether the wheat is **normal**, affected by **Fusarium**, or has an **unknown disease**. The project includes a modern web interface powered by Streamlit for real-time predictions.
 
-![App Screenshot](./assets/app_screenshot.png) <!-- Add actual screenshot path -->
+![image](https://github.com/user-attachments/assets/9fe35120-0874-4d53-b72d-1182596a3599)
+
 
 ## Features ✨
 
