@@ -50,7 +50,7 @@ docker run -p 8501:8501 wheat-classifier
 ### Running the Application
 ```bash
 # Local run
-streamlit run owl.py
+streamlit run app.py
 
 # Docker run
 docker run -p 8501:8501 wheat-classifier
@@ -66,7 +66,7 @@ Access the web interface at [http://localhost:8501](http://localhost:8501).
 ## Project Structure 🗂
 ```plaintext
 ├── Dockerfile                        # Docker configuration
-├── owl.py                            # Streamlit web application
+├── app.py                            # Streamlit web application
 ├── best_wheat_classification_model.h5  # Trained model weights (HDF5 format)
 ├── best_wheat_classification_model.keras # Trained model weights (Keras format)
 ├── requirements.txt                  # Python dependencies
