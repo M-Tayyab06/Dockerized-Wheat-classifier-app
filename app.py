@@ -96,9 +96,6 @@ elif upload_option == "Video":
 
 # Confusion Matrix and Classification Report Option
 if st.button("Show Evaluation Metrics"):
-    # Replace this with your validation dataset labels and predictions
-    # val_labels = [...] (true labels of validation dataset)
-    # val_predictions = [...] (predicted labels of validation dataset)
     st.info("This feature requires validation dataset and predictions.")
     st.warning("Add validation data and labels to show metrics.")
 
